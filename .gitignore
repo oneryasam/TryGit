@@ -1,0 +1,3 @@
+.DS_Store
+passwords.txt
+# This line is comment line. git will ignore this line.
