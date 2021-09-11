@@ -1,3 +1,9 @@
+# This line is comment line. git will ignore this line.
+
+# Below 2 files will not be uploaded to github if you push
 .DS_Store
 passwords.txt
-# This line is comment line. git will ignore this line.
+
+
+# All the files having extension of .xlsx will not be uploaded to github if you push the folder
+*.xlsx
